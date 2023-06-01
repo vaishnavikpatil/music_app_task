@@ -1,0 +1,40 @@
+[
+    {
+        "title": "The Dark Side",
+        "artist": "Muse-Simulation Theory",
+        "audiourl": "audiofile/the_dark_side.mp3",
+        "imageurl": "assets/images/the_dark_side.jpg"
+    },
+    {
+        "title": "Thought Contagion",
+        "artist": "Muse-Simulation Theory",
+        "audiourl": "audiofile/thought_contagion.mp3",
+        "imageurl": "assets/images/thought_contagion.jpg"
+    },
+    {
+        "title": "I am Good",
+        "artist": "David Gueta & Bebe Rexha",
+        "audiourl": "audiofile/i_am_good.mp3",
+        "imageurl": "assets/images/i_am_good.jpg"
+    },
+    {
+        "title": "Under the Influence",
+        "artist": "Chris Brown",
+        "audiourl": "audiofile/under_the_influence.mp3",
+        "imageurl": "assets/images/under_the_influence.jpg"
+    },
+    {
+        "title": "Forget me",
+        "artist": "Lewis Capaldi",
+        "audiourl": "audiofile/forget_me.mp3",
+        "imageurl": "assets/images/forget_me.jpg"
+    }
+]
+
+
+
+  
+    
+    
+
+   
